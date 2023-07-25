@@ -6,6 +6,13 @@ To create this clock, I used the LVGL graphics library to design the user interf
 
 Overall, this project was a great way for me to learn more about embedded systems and network programming with the ESP32. I hope you enjoy watching and maybe even try building your own clock with these features!
 
+Software:
+
+GUI Guider:[GUI Guider-LVGL Development tool](https://www.nxp.com.cn/design/software/development-software/gui-guider:GUI-GUIDER)
+GUI Guider is a user-friendly graphical user interface development tool from NXP that enables the rapid development of high quality displays with the open-source LVGL graphics library. GUI Guider's drag-and-drop editor makes it easy to utilize the many features of LVGL such as widgets, animations and styles to create a GUI with minimal or no coding at all.
+With the click of a button, you can run your application in a simulated environment or export it to a target project. Generated code from GUI Guider can easily be added to an MCUXpresso IDE or IAR Embedded Workbench project, accelerating the development process and allowing you to seamlessly add an embedded user interface to your application.
+GUI Guider is free to use with NXP’s general purpose and crossover MCUs, and includes built in project templates for several supported platforms.
+
 Hardware:
 
 ESP32 Display 2.4Inch:[ESP32 display-2.4 Inch HMI Display 240x320 SPI TFT LCD Touch Screen Compatible with Arduino/LVGL](https://www.elecrow.com/esp32-display-2-4-inch-intelligent-spi-tft-lcd-touch-screen-hmi-display.html)
